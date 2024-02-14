@@ -1,0 +1,15 @@
+Português:
+
+Este projeto de Clusterização de Clientes em Campanhas de Marketing utiliza técnicas de machine learning para segmentar os clientes com base em seu comportamento de compra e características demográficas. 
+Através do algoritmo KMeans e análise de métricas de desempenho, como silhouette e Davies Bouldin, identificamos padrões nos dados e agrupamos os clientes em clusters distintos. 
+Esses clusters são então analisados para entender os diferentes perfis de clientes e gerar insights valiosos para estratégias de marketing mais eficazes e personalizadas. 
+Utilizando bibliotecas como Pandas e Scikit-learn, o projeto realiza o tratamento de dados, codificação de variáveis categóricas e normalização, garantindo uma análise precisa e abrangente dos dados dos clientes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+English:
+
+This Customer Clustering in Marketing Campaigns project utilizes machine learning techniques to segment customers based on their purchasing behavior and demographic characteristics. 
+Through the KMeans algorithm and performance metric analysis, such as silhouette and Davies Bouldin, we identify patterns in the data and group customers into distinct clusters. 
+These clusters are then analyzed to understand different customer profiles and generate valuable insights for more effective and personalized marketing strategies. 
+Utilizing libraries like Pandas and Scikit-learn, the project handles data preprocessing, categorical variable encoding, and normalization, ensuring precise and comprehensive analysis of customer data.
